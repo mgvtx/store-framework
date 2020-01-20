@@ -1,3 +1,9 @@
+.infoCardContainer {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
@@ -35,17 +41,6 @@
     padding: 0;
   }
 
-.infoCardImage--vintage {
-    max-width: 1260px;
-    margin: 0 auto;
-    padding: 0;
-  }
-
-.infoCardImageContainer--vintage {
-    max-width: 1260px;
-    margin: 0 auto;
-    padding: 0;
-  }
 
 .infoCardTextContainer {
     max-width: 1260px;
@@ -67,8 +62,6 @@
 
 .infoCardImageContainer{
     max-width: 1260px;
-    margin: 0 auto;
-    padding: 0;
 }
 
 .infoCardContainer--vintage {
