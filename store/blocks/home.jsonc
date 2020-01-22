@@ -64,15 +64,14 @@
 
   "flex-layout.col":{
     "children": [
-      "flex-layout.col#deletar"
+      "flex-layout.col#deletar",
+      "image#electronics",
+      "image#major-appliance"
     ]
   },
 
   "flex-layout.col#deletar":{
-    "children": [
-      "image#electronics",
-      "image#major-appliance"
-    ]
+
   },
 
   "image#electronics": {
