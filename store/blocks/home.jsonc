@@ -62,6 +62,12 @@
     }
   },
 
+  "flex-layout.col":{
+    "children": [
+      "flex-layout.col#deletar"
+    ]
+  },
+
   "flex-layout.col#deletar":{
     "children": [
       "image#electronics",
